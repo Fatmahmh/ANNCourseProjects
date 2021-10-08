@@ -1,4 +1,4 @@
-# Artificial neural networks course projects  ( Python ) :  Word Clustering using SOMs ,Relation Classification Using Multilayer Perceptron
+### Artificial neural networks course projects  ( Python ) :  Word Clustering using SOMs ,Relation Classification Using Multilayer Perceptron
 
 -1. Word Clustering using SOMs 
 • A self-organizing map is built from scratch by using NumPy and Math and Random to group the words  into clusters
